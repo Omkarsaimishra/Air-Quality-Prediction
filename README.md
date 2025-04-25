@@ -1,4 +1,3 @@
-# Air-Quality-Prediction
 
 # 🌫️ Air Quality Prediction Project
 
@@ -73,18 +72,18 @@ This project is live and accessible to everyone! Try it out and explore how mach
 
 👉 [Try the App Now](https://huggingface.co/spaces/omkarsai/air_quality_project)
 
-## 🙌 Acknowledgements
+## 👥 Contributors
 
-- Hugging Face for hosting the app
-- Scikit-learn for model building
-- Gradio for the easy-to-use web interface
+| Name                  | GitHub Profile                             |
+|-------------------    |---------------------------------------------|
+| Ommkar sai mishra     | [@omkarsai](https://github.com/omkarsai)   |
+| Asit Kumar Barik      | [@username2](https://github.com/asitbarik88) |
+| Contributor 3         | [@username3](https://github.com/username3) |
+| Contributor 4         | [@username4](https://github.com/username4) |
+
+> Want to contribute? Open a pull request or drop a star 🌟!
 
 ---
 
 Feel free to fork, star, and contribute!
-
 ```
-
----
-
-Let me know if you want to customize the README further — like adding screenshots, your name, or GitHub profile.
